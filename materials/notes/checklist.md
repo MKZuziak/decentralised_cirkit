@@ -1,0 +1,3 @@
+-[ ] Implement a simple proof-of-concept circuit. Try to split into sub-circuits and compare the empirical results.
+-[ ] Inspect the structure of different circuits and try to understand what makes them a good candidate for parallelisation.
+-[ ] Try to think about the rules that tell you what is the most parallelized circuit.
